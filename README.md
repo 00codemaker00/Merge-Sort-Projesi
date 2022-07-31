@@ -17,4 +17,4 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 Big-O gösterimini yazınız.
 CEVAP:
-O(nLogn) 'dir
+O(nlogn) 'dir
